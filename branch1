@@ -1,0 +1,5 @@
+a=38
+b=54
+c=64
+print(a-b)
+print(a+b)
